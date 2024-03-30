@@ -1,0 +1,20 @@
+<resources>
+    <!-- Button names -->
+    <string name="appname">Notes-CM</string>
+    <string name="save_button">Save</string>
+    <string name="back_button">Go Back</string>
+    <string name="delete_button">Delete</string>
+
+    <!-- Confirmation and warning messages -->
+    <string name="del_txt">Are you absolutely sure you want to delete this note?</string>
+    <string name="yes_button">YES</string>
+    <string name="no_button">NO</string>
+    <string name="length_warning">A note must contain a minimum of 5 characters!</string>
+    <string name="success_message">Note saved successfully!</string>
+    <string name="edit_message">Note edited successfully!</string>
+    <string name="delete_message">Note erased successfully!</string>
+
+    <!-- Placeholders -->
+    <string name="note_placeholder">Note</string>
+    <string name="date_placeholder">mm/dd/yyyy</string>
+</resources>

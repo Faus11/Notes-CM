@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nome do app -->
+    <string name="appname">Notas-CM</string>
+
+    <!-- Nomes dos botões -->
+    <string name="save_button">Guardar</string>
+    <string name="back_button">Voltar</string>
+    <string name="delete_button">Remover</string>
+
+    <!-- PLACEHOLDERS -->
+    <string name="note_placeholder">Nota</string>
+    <string name="date_placeholder">dd/mm/aaaa</string>
+    <string name="del_txt">Tens a certeza que queres apagar esta nota?</string>
+
+    <!-- Mensagens de confirmação -->
+    <string name="yes_button">SIM</string>
+    <string name="no_button">NÃO</string>
+
+    <!-- Mensagens de aviso e sucesso -->
+    <string name="length_warning">Uma nota deve ter no mínimo 5 caracteres!</string>
+    <string name="success_message">Nota foi guardada com sucesso!</string>
+    <string name="edit_message">Nota foi editada com sucesso!</string>
+    <string name="delete_message">Nota foi apagada com sucesso!</string>
+</resources>
